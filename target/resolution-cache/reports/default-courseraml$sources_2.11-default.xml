@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="default"
 		confs="default"
-		date="20150524142307"/>
+		date="20150524142819"/>
 	<dependencies>
 		<module organisation="com.github.mpeltonen" name="sbt-idea">
 			<revision name="1.6.0" status="release" pubdate="20140209031446" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://your.project.url" extra-sbtVersion="0.13" extra-scalaVersion="2.10" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="52">

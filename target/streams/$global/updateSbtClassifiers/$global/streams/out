@@ -732,9 +732,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1231ms :: artifacts dl 53ms
+[debug] :: resolution report :: resolve 974ms :: artifacts dl 40ms
 [debug] 	report for default#courseraml$sbt_2.11;1.0 default produced in /Users/roackb2/Studio/programming/scala/CourseraML/target/resolution-cache/reports/default-courseraml$sbt_2.11-default.xml
-[debug] 	resolve done (1231ms resolve - 53ms download)
+[debug] 	resolve done (974ms resolve - 40ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#courseraml$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1117,6 +1117,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
 [debug] 	[NOT REQUIRED] com.github.mpeltonen#sbt-idea;1.6.0!sbt-idea.jar(src)
 [debug] 	[NOT REQUIRED] commons-io#commons-io;2.0.1!commons-io.jar(src)
-[debug] :: resolution report :: resolve 277ms :: artifacts dl 44ms
+[debug] :: resolution report :: resolve 281ms :: artifacts dl 66ms
 [debug] 	report for default#courseraml$sources_2.11;1.0 default produced in /Users/roackb2/Studio/programming/scala/CourseraML/target/resolution-cache/reports/default-courseraml$sources_2.11-default.xml
-[debug] 	resolve done (277ms resolve - 44ms download)
+[debug] 	resolve done (281ms resolve - 66ms download)
