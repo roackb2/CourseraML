@@ -32,11 +32,7 @@ case class PLA(X: DenseMatrix[Double], Y: DenseVector[Boolean]) {
         var w: DenseVector[Double] = DenseVector.zeros[Double](X.cols)
         var answer: DenseVector[Boolean] = predict(w) :== Y
         while(!answer.forall(y => y)) {
-            val index:Int = answer.toArray.toList.zipWithIndex.find{
-                case (value, i) => !value
-            }.get match {
-                case (value, i) => i
-            }
+            val index:Int = answer.findAll(x => !x).head
             w += (X(index, ::).t  :*= (if(answer(index)) 1.0 else -1.0))
             answer = predict(w) :== Y
         }
