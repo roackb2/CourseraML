@@ -36,16 +36,24 @@ case class PLA(X: DenseMatrix[Double], Y: DenseVector[Boolean]) {
         DenseVector((X * w).toArray.toList.map(x => x > 0).toArray)
     }
 
-    def train: DenseVector[Double] = {
+    def train(bound: Int = 200): DenseVector[Double] = {
         var w: DenseVector[Double] = DenseVector.zeros[Double](X.cols)
+        var pocket: DenseVector[Double] = DenseVector.zeros[Double](X.cols)
         var answer: DenseVector[Boolean] = predict(w) :== Y
-        while(!answer.forall(y => y)) {
+        var counter = 0
+        while(!answer.forall(y => y) && counter < bound) {
+            counter += 1
             val index:Int = answer.findAll(x => !x).head
             w += (X(index, ::).t  :*= (if(answer(index)) 1.0 else -1.0))
             answer = predict(w) :== Y
+            if(answer.count(x => x) > (predict(pocket) :== Y).count(x => x)) {
+                pocket = w
+            }
         }
-        w
+        pocket
     }
+
+
 }
 
 object PLA {
