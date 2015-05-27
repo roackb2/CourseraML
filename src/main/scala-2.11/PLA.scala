@@ -20,7 +20,7 @@ case class PLA(X: DenseMatrix[Double], Y: DenseVector[Boolean]) {
 
     override def toString(): String = {
         X.zip(Y).foldLeft("")((former, pair) => pair match {
-            case (row: DenseVector[Double], y: Boolean) => former + PLA.vectorToString(row) + " " +  y + "\n"
+            case (row, y) => former + PLA.vectorToString(row) +  y + "\n"
         })
     }
 
@@ -50,6 +50,6 @@ case class PLA(X: DenseMatrix[Double], Y: DenseVector[Boolean]) {
 
 object PLA {
     def vectorToString(v: DenseVector[Double]): String = {
-        v.foldLeft("")((prefix, x) => prefix + " " + x).toString
+        v.foldLeft("")((prefix, x) => prefix + x.toString + " ").toString
     }
 }
