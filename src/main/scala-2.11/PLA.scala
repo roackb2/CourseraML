@@ -36,7 +36,8 @@ case class PLA(X: DenseMatrix[Double], Y: DenseVector[Boolean]) {
         DenseVector((X * w).toArray.toList.map(x => x > 0).toArray)
     }
 
-    def train(bound: Int = 200): DenseVector[Double] = {
+    /* if bound < 0 then run without pocket algorithm */
+    def train(bound: Int = -1): DenseVector[Double] = {
         var w: DenseVector[Double] = DenseVector.zeros[Double](X.cols)
         var pocket: DenseVector[Double] = w
         var answer: DenseVector[Boolean] = predict(w) :== Y
