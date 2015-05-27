@@ -1,18 +1,26 @@
-import breeze.linalg.{BitVector, Transpose, DenseMatrix, DenseVector}
-import breeze.numerics.signum
-
+import breeze.linalg._
 /**
  * Created by roackb2 on 15/5/26.
  */
 case class PLA(X: DenseMatrix[Double], Y: DenseVector[Boolean]) {
 
+
+    implicit def matrixToList(m :DenseMatrix[Double]): List[DenseVector[Double]] = {
+        List.tabulate[DenseVector[Double]](m.rows)(n => m(n, ::).t)
+    }
+
+    implicit def doubleVectorToList(v: DenseVector[Double]): List[Double] = {
+        v.toArray.toList
+    }
+
+    implicit def booleanVectorToList(v: DenseVector[Boolean]): List[Boolean] = {
+        v.toArray.toList
+    }
+
+
     override def toString(): String = {
-        Y.toArray.toList.zipWithIndex.foldLeft("")((former, pair) => pair match {
-            case (y: Boolean, index: Int) => X(index, ::) match {
-                    case Transpose(v) => v match {
-                        case e: DenseVector[Double] => former + e.toArray.toList.foldLeft("")((prefix, x) => prefix + x + " ") + " " + y + "\n"
-                    }
-                }
+        X.zip(Y).foldLeft("")((former, pair) => pair match {
+            case (row: DenseVector[Double], y: Boolean) => former + PLA.vectorToString(row) + " " +  y + "\n"
         })
     }
 
@@ -37,5 +45,11 @@ case class PLA(X: DenseMatrix[Double], Y: DenseVector[Boolean]) {
             answer = predict(w) :== Y
         }
         w
+    }
+}
+
+object PLA {
+    def vectorToString(v: DenseVector[Double]): String = {
+        v.foldLeft("")((prefix, x) => prefix + " " + x).toString
     }
 }
