@@ -21,8 +21,8 @@ object Playground extends App {
     val v1 = DenseVector(1, -2 ,3, 9, 10)
     val v2 = DenseVector(4, 5, 6, 7, 8)
 
-    val w = pla3.train()
+    val w = pla3.train
 
-    println(pla3.predict(w))
+    println(pla3.predict)
 
 }
