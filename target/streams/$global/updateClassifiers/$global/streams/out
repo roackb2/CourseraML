@@ -8,7 +8,7 @@
 [debug] == resolving dependencies for default#courseraml$sources_javadoc_2.11;1.0 [compile]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.6 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b3c7e9f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@436387ad
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.6
 [debug] 	found org.scala-lang#scala-library;2.11.6 in sbt-chain
 [debug] 	[2.11.6] org.scala-lang#scala-library;2.11.6
@@ -17,7 +17,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.6 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24601e7f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ed86d7c
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->runtime]
@@ -25,7 +25,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-macros_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6003fca2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d88095e
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-macros_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze-macros_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->runtime]
@@ -33,7 +33,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze-macros_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@576bf528
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@365902df
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.4
 [debug] 	found org.scala-lang#scala-reflect;2.11.4 in sbt-chain
 [debug] 	[2.11.4] org.scala-lang#scala-reflect;2.11.4
@@ -42,7 +42,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.4 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#core;1.1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@139e216a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@596ac057
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#core;1.1.2
 [debug] 	found com.github.fommil.netlib#core;1.1.2 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->runtime]
@@ -50,7 +50,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#core;1.1.2 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->net.sourceforge.f2j#arpack_combined_all;0.1 [compile->default(compile)]
 [info] Resolving net.sourceforge.f2j#arpack_combined_all;0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b76b8a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@992eaad
 [debug] sbt-chain: module revision found in cache: net.sourceforge.f2j#arpack_combined_all;0.1
 [debug] 	found net.sourceforge.f2j#arpack_combined_all;0.1 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->net.sourceforge.f2j#arpack_combined_all;0.1 [compile->runtime]
@@ -58,7 +58,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->net.sourceforge.f2j#arpack_combined_all;0.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->default(compile)]
 [info] Resolving net.sf.opencsv#opencsv;2.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@587acb54
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61411465
 [debug] sbt-chain: module revision found in cache: net.sf.opencsv#opencsv;2.3
 [debug] 	found net.sf.opencsv#opencsv;2.3 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->runtime]
@@ -66,7 +66,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->net.sf.opencsv#opencsv;2.3 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->default(compile)]
 [info] Resolving com.github.rwl#jtransforms;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@284e3d62
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72b66098
 [debug] sbt-chain: module revision found in cache: com.github.rwl#jtransforms;2.4.0
 [debug] 	found com.github.rwl#jtransforms;2.4.0 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->runtime]
@@ -74,7 +74,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.rwl#jtransforms;2.4.0 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->junit#junit;4.8.2 [compile->default(compile)]
 [info] Resolving junit#junit;4.8.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3526334e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@faba945
 [debug] sbt-chain: module revision found in cache: junit#junit;4.8.2
 [debug] 	found junit#junit;4.8.2 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->junit#junit;4.8.2 [compile->runtime]
@@ -82,7 +82,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->junit#junit;4.8.2 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.apache.commons#commons-math3;3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@778f6407
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3251376
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.2
 [debug] 	found org.apache.commons#commons-math3;3.2 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.apache.commons#commons-math3;3.2 [compile->runtime]
@@ -90,7 +90,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.apache.commons#commons-math3;3.2 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bc0f467
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@406ba481
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire_2.11;0.7.4
 [debug] 	found org.spire-math#spire_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->runtime]
@@ -98,7 +98,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.spire-math#spire_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->default(compile)]
 [info] Resolving org.spire-math#spire-macros_2.11;0.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50bb0a8a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4795736d
 [debug] sbt-chain: module revision found in cache: org.spire-math#spire-macros_2.11;0.7.4
 [debug] 	found org.spire-math#spire-macros_2.11;0.7.4 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->runtime]
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.spire-math#spire-macros_2.11;0.7.4 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@bb82418
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b65a23c
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.5
 [debug] 	found org.slf4j#slf4j-api;1.7.5 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->runtime]
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.7.5 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze-natives_2.11;0.11.2 [compile->default(compile)]
 [info] Resolving org.scalanlp#breeze-natives_2.11;0.11.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71b27080
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@324164a8
 [debug] sbt-chain: module revision found in cache: org.scalanlp#breeze-natives_2.11;0.11.2
 [debug] 	found org.scalanlp#breeze-natives_2.11;0.11.2 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze-natives_2.11;0.11.2 [compile->runtime]
@@ -122,9 +122,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->org.scalanlp#breeze-natives_2.11;0.11.2 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1b16d7d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46339a4c
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@1b16d7d3
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@46339a4c
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_ref-osx-x86_64/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.pom
@@ -134,7 +134,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1!netlib-native_ref-osx-x86_64.pom(pom.original) (909ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1!netlib-native_ref-osx-x86_64.pom(pom.original) (872ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -146,9 +146,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#native_ref-java;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#native_ref-java;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5dfc00eb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c2e5569
 [info] Resolving com.github.fommil.netlib#native_ref-java;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5dfc00eb
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@4c2e5569
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/native_ref-java/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#native_ref-java;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/native_ref-java/1.1/native_ref-java-1.1.pom
@@ -158,7 +158,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/native_ref-java/1.1/native_ref-java-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/native_ref-java/1.1/native_ref-java-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/native_ref-java/1.1/native_ref-java-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_ref-java;1.1!native_ref-java.pom(pom.original) (890ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_ref-java;1.1!native_ref-java.pom(pom.original) (853ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -168,7 +168,7 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#native_ref-java;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil#jniloader;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil#jniloader;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15715c02
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71f8f6e4
 [debug] sbt-chain: module revision found in cache: com.github.fommil#jniloader;1.1
 [debug] 	found com.github.fommil#jniloader;1.1 in sbt-chain
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil#jniloader;1.1 [compile->runtime]
@@ -176,9 +176,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil#jniloader;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d065976
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@49544847
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@7d065976
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@49544847
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_ref-linux-x86_64/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.pom
@@ -188,7 +188,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1!netlib-native_ref-linux-x86_64.pom(pom.original) (971ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1!netlib-native_ref-linux-x86_64.pom(pom.original) (824ms)
 [info] Resolving com.github.fommil.netlib#native_ref-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref-xbuilds;1.1 {}
 [info] Resolving com.github.fommil.netlib#native_ref-xbuilds;1.1 ...
@@ -202,7 +202,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/native_ref-xbuilds/1.1/native_ref-xbuilds-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/native_ref-xbuilds/1.1/native_ref-xbuilds-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/native_ref-xbuilds/1.1/native_ref-xbuilds-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_ref-xbuilds;1.1!native_ref-xbuilds.pom(pom.original) (1226ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_ref-xbuilds;1.1!native_ref-xbuilds.pom(pom.original) (855ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -223,9 +223,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a6ebfd7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6dc71e03
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2a6ebfd7
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6dc71e03
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_ref-linux-i686/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.pom
@@ -235,7 +235,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1!netlib-native_ref-linux-i686.pom(pom.original) (938ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1!netlib-native_ref-linux-i686.pom(pom.original) (822ms)
 [info] Resolving com.github.fommil.netlib#native_ref-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref-xbuilds;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref-xbuilds;1.1
@@ -247,9 +247,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1357b502
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f6887b3
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@1357b502
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2f6887b3
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_ref-win-x86_64/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.pom
@@ -259,7 +259,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1!netlib-native_ref-win-x86_64.pom(pom.original) (889ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1!netlib-native_ref-win-x86_64.pom(pom.original) (814ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -271,9 +271,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26240115
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@df073ec
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@26240115
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@df073ec
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_ref-win-i686/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_ref-win-i686;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.pom
@@ -283,7 +283,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-win-i686;1.1!netlib-native_ref-win-i686.pom(pom.original) (888ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-win-i686;1.1!netlib-native_ref-win-i686.pom(pom.original) (887ms)
 [info] Resolving com.github.fommil.netlib#native_ref;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref;1.1
@@ -295,9 +295,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-win-i686;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34d1aec6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@81edaec
 [info] Resolving com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@34d1aec6
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@81edaec
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_ref-linux-armhf/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.pom
@@ -307,7 +307,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1!netlib-native_ref-linux-armhf.pom(pom.original) (1131ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1!netlib-native_ref-linux-armhf.pom(pom.original) (826ms)
 [info] Resolving com.github.fommil.netlib#native_ref-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_ref-xbuilds;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_ref-xbuilds;1.1
@@ -319,9 +319,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a566ce5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b9418f0
 [info] Resolving com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6a566ce5
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5b9418f0
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_system-osx-x86_64/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.pom
@@ -331,7 +331,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1!netlib-native_system-osx-x86_64.pom(pom.original) (915ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1!netlib-native_system-osx-x86_64.pom(pom.original) (932ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -343,9 +343,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#native_system-java;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#native_system-java;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a71cac0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70361dd4
 [info] Resolving com.github.fommil.netlib#native_system-java;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@4a71cac0
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@70361dd4
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/native_system-java/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#native_system-java;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/native_system-java/1.1/native_system-java-1.1.pom
@@ -355,7 +355,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/native_system-java/1.1/native_system-java-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/native_system-java/1.1/native_system-java-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/native_system-java/1.1/native_system-java-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_system-java;1.1!native_system-java.pom(pom.original) (928ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_system-java;1.1!native_system-java.pom(pom.original) (845ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -365,9 +365,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#native_system-java;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4154b6be
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59ed159d
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@4154b6be
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@59ed159d
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_system-linux-x86_64/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.pom
@@ -377,7 +377,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1!netlib-native_system-linux-x86_64.pom(pom.original) (909ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1!netlib-native_system-linux-x86_64.pom(pom.original) (847ms)
 [info] Resolving com.github.fommil.netlib#native_system-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system-xbuilds;1.1 {}
 [info] Resolving com.github.fommil.netlib#native_system-xbuilds;1.1 ...
@@ -391,7 +391,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/native_system-xbuilds/1.1/native_system-xbuilds-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/native_system-xbuilds/1.1/native_system-xbuilds-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/native_system-xbuilds/1.1/native_system-xbuilds-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_system-xbuilds;1.1!native_system-xbuilds.pom(pom.original) (1215ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#native_system-xbuilds;1.1!native_system-xbuilds.pom(pom.original) (827ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -412,9 +412,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ce1a351
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@180d1caf
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5ce1a351
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@180d1caf
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_system-linux-i686/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_system-linux-i686;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.pom
@@ -424,7 +424,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-i686;1.1!netlib-native_system-linux-i686.pom(pom.original) (894ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-i686;1.1!netlib-native_system-linux-i686.pom(pom.original) (817ms)
 [info] Resolving com.github.fommil.netlib#native_system-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system-xbuilds;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system-xbuilds;1.1
@@ -436,9 +436,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-i686;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7eeb73a6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d6d124c
 [info] Resolving com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@7eeb73a6
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@7d6d124c
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_system-linux-armhf/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.pom
@@ -448,7 +448,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1!netlib-native_system-linux-armhf.pom(pom.original) (960ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1!netlib-native_system-linux-armhf.pom(pom.original) (828ms)
 [info] Resolving com.github.fommil.netlib#native_system-xbuilds;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system-xbuilds;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system-xbuilds;1.1
@@ -460,9 +460,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51e59665
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a27d94
 [info] Resolving com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@51e59665
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5a27d94
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_system-win-x86_64/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.pom
@@ -472,7 +472,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1!netlib-native_system-win-x86_64.pom(pom.original) (914ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1!netlib-native_system-win-x86_64.pom(pom.original) (827ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -484,9 +484,9 @@
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1 [compile->master]
 [debug] == resolving dependencies default#courseraml$sources_javadoc_2.11;1.0->com.github.fommil.netlib#netlib-native_system-win-i686;1.1 [compile->default(compile)]
 [info] Resolving com.github.fommil.netlib#netlib-native_system-win-i686;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6322ffe5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3dbc1cdd
 [info] Resolving com.github.fommil.netlib#netlib-native_system-win-i686;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@6322ffe5
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@3dbc1cdd
 [debug] 		tried /Users/roackb2/.ivy2/local/com.github.fommil.netlib/netlib-native_system-win-i686/1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for com.github.fommil.netlib#netlib-native_system-win-i686;1.1
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.pom
@@ -496,7 +496,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.pom
-[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-win-i686;1.1!netlib-native_system-win-i686.pom(pom.original) (886ms)
+[debug] 	[SUCCESSFUL ] com.github.fommil.netlib#netlib-native_system-win-i686;1.1!netlib-native_system-win-i686.pom(pom.original) (808ms)
 [info] Resolving com.github.fommil.netlib#native_system;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.github.fommil.netlib#native_system;1.1 {}
 [debug] sbt-chain: module revision found in cache: com.github.fommil.netlib#native_system;1.1
@@ -2259,7 +2259,7 @@
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1!netlib-native_ref-osx-x86_64.jar(src)
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.jar
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1!netlib-native_ref-osx-x86_64.jar (270ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-osx-x86_64;1.1!netlib-native_ref-osx-x86_64.jar (259ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-osx-x86_64/1.1/netlib-native_ref-osx-x86_64-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#native_ref-java;1.1!native_ref-java.jar(src)
@@ -2271,37 +2271,37 @@
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1!netlib-native_ref-linux-x86_64.jar(src)
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.jar
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1!netlib-native_ref-linux-x86_64.jar (269ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-linux-x86_64;1.1!netlib-native_ref-linux-x86_64.jar (247ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-x86_64/1.1/netlib-native_ref-linux-x86_64-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1!netlib-native_ref-linux-i686.jar(src)
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.jar
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1!netlib-native_ref-linux-i686.jar (268ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-linux-i686;1.1!netlib-native_ref-linux-i686.jar (259ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-i686/1.1/netlib-native_ref-linux-i686-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1!netlib-native_ref-win-x86_64.jar(src)
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.jar
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1!netlib-native_ref-win-x86_64.jar (282ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-win-x86_64;1.1!netlib-native_ref-win-x86_64.jar (257ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-x86_64/1.1/netlib-native_ref-win-x86_64-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_ref-win-i686;1.1!netlib-native_ref-win-i686.jar(src)
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.jar
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-win-i686;1.1!netlib-native_ref-win-i686.jar (268ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-win-i686;1.1!netlib-native_ref-win-i686.jar (254ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-win-i686/1.1/netlib-native_ref-win-i686-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1!netlib-native_ref-linux-armhf.jar(src)
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.jar
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1!netlib-native_ref-linux-armhf.jar (267ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_ref-linux-armhf;1.1!netlib-native_ref-linux-armhf.jar (245ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_ref-linux-armhf/1.1/netlib-native_ref-linux-armhf-1.1.jar
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1!netlib-native_system-osx-x86_64.jar(src)
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1!netlib-native_system-osx-x86_64.jar (281ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-osx-x86_64;1.1!netlib-native_system-osx-x86_64.jar (256ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-osx-x86_64/1.1/netlib-native_system-osx-x86_64-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#native_system-java;1.1!native_system-java.jar(src)
@@ -2310,31 +2310,31 @@
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1!netlib-native_system-linux-x86_64.jar(src)
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1!netlib-native_system-linux-x86_64.jar (271ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-linux-x86_64;1.1!netlib-native_system-linux-x86_64.jar (260ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-x86_64/1.1/netlib-native_system-linux-x86_64-1.1.jar
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_system-linux-i686;1.1!netlib-native_system-linux-i686.jar(src)
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-linux-i686;1.1!netlib-native_system-linux-i686.jar (270ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-linux-i686;1.1!netlib-native_system-linux-i686.jar (252ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-i686/1.1/netlib-native_system-linux-i686-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1!netlib-native_system-linux-armhf.jar(src)
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.jar
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1!netlib-native_system-linux-armhf.jar (268ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-linux-armhf;1.1!netlib-native_system-linux-armhf.jar (250ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-linux-armhf/1.1/netlib-native_system-linux-armhf-1.1.jar
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1!netlib-native_system-win-x86_64.jar(src)
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1!netlib-native_system-win-x86_64.jar (268ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-win-x86_64;1.1!netlib-native_system-win-x86_64.jar (253ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-x86_64/1.1/netlib-native_system-win-x86_64-1.1.jar
 [debug] 	[NOT REQUIRED] com.github.fommil.netlib#netlib-native_system-win-i686;1.1!netlib-native_system-win-i686.jar(src)
 [debug] 		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.jar
 [debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.jar
-[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-win-i686;1.1!netlib-native_system-win-i686.jar (284ms)
+[warn] 	[NOT FOUND  ] com.github.fommil.netlib#netlib-native_system-win-i686;1.1!netlib-native_system-win-i686.jar (255ms)
 [warn] ==== public: tried
 [warn]   https://repo1.maven.org/maven2/com/github/fommil/netlib/netlib-native_system-win-i686/1.1/netlib-native_system-win-i686-1.1.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar(src)
@@ -2347,7 +2347,7 @@
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(doc)
-[debug] :: resolution report :: resolve 30720ms :: artifacts dl 3387ms
+[debug] :: resolution report :: resolve 32969ms :: artifacts dl 3323ms
 [warn] 	::::::::::::::::::::::::::::::::::::::::::::::
 [warn] 	::              FAILED DOWNLOADS            ::
 [warn] 	:: ^ see resolution messages for details  ^ ::
@@ -2378,4 +2378,4 @@
 [debug] 	report for default#courseraml$sources_javadoc_2.11;1.0 docs produced in /Users/roackb2/Studio/programming/scala/CourseraML/target/resolution-cache/reports/default-courseraml$sources_javadoc_2.11-docs.xml
 [debug] 	report for default#courseraml$sources_javadoc_2.11;1.0 pom produced in /Users/roackb2/Studio/programming/scala/CourseraML/target/resolution-cache/reports/default-courseraml$sources_javadoc_2.11-pom.xml
 [debug] 	report for default#courseraml$sources_javadoc_2.11;1.0 scala-tool produced in /Users/roackb2/Studio/programming/scala/CourseraML/target/resolution-cache/reports/default-courseraml$sources_javadoc_2.11-scala-tool.xml
-[debug] 	resolve done (30720ms resolve - 3387ms download)
+[debug] 	resolve done (32969ms resolve - 3323ms download)
