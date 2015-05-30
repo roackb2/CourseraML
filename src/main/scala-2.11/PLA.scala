@@ -40,9 +40,8 @@ case class PLA(input: DenseMatrix[Double], label: DenseVector[Boolean])(implicit
         predict(hypothesis).map(x => x > 0) :== Y
     }
 
-    def findMistake(lastIndex: Int, correctness: DenseVector[Boolean])(implicit random: Boolean = false): Int = {
+    def findMistake(lastIndex: Int, correctness: DenseVector[Boolean]): Int = {
         val mistakeIndices: List[Int] = correctness.findAll(x => !x).toList
-        if(random) util.Random.shuffle(mistakeIndices).head else
         mistakeIndices.find(x => x > lastIndex) match {
             case Some(n) => n
             case None => mistakeIndices.head
@@ -54,7 +53,7 @@ case class PLA(input: DenseMatrix[Double], label: DenseVector[Boolean])(implicit
     }
 
     /* if bound < 0 then run without pocket algorithm */
-    def train(bound: Int = -1, randomVisit: Boolean = false, stepSize: Double = 1.0): Int = {
+    def train(bound: Int = -1, stepSize: Double = 1.0): Int = {
         w := DenseVector.zeros[Double](X.cols)
         pocket := DenseVector.zeros[Double](X.cols)
         val correctness: DenseVector[Boolean] = verify()
@@ -62,7 +61,7 @@ case class PLA(input: DenseMatrix[Double], label: DenseVector[Boolean])(implicit
         var lastIndex = 0
         while(!correctness.forall(y => y) && (if(bound > 0) counter < bound else true)) {
             counter += 1
-            val index:Int = findMistake(lastIndex, correctness)(randomVisit)
+            val index:Int = findMistake(lastIndex, correctness)
             lastIndex = index
             w := update(index, stepSize)
             correctness := verify()
@@ -70,26 +69,9 @@ case class PLA(input: DenseMatrix[Double], label: DenseVector[Boolean])(implicit
         }
         counter
     }
-
-    def printStatus(index: Int): Unit = {
-        println("X:")
-        println(X)
-        println("Y:")
-        println(Y.asDenseMatrix)
-        println("index: " + index)
-        println("w:")
-        println(w.asDenseMatrix)
-        println("prediction:")
-        println(predict().asDenseMatrix)
-        println("correctness:")
-        println(verify().asDenseMatrix)
-    }
-
 }
 
 object PLA {
-
-//    def apply(X: DenseMatrix[Double], Y: DenseVector[Boolean])(implicit init: DenseVector[Double] = DenseVector.zeros[Double](X.cols)) = {}
 
     def apply(data: DenseMatrix[Double]): PLA = {
         new PLA(data)

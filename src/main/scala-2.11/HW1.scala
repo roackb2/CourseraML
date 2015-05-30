@@ -6,7 +6,6 @@ import PLA._
  */
 object HW1 extends App {
 
-
     def getData(url: String): DenseMatrix[Double] = {
         lazy val source: DenseMatrix[Double] = {
             println("getting data from " + url)
@@ -14,8 +13,7 @@ object HW1 extends App {
         }
         source
     }
-
-
+    
     def Q15(m: DenseMatrix[Double]): Int = {
         PLA(m).train()
     }
@@ -47,7 +45,7 @@ object HW1 extends App {
             if(showProgress) println("finding error rate for No." + counter + " sequence")
             val trainingPla = PLA(shuffleRow(trainingSet))
             val verifyingPla = PLA(testSet)
-            trainingPla.train(50, randomVisit =  true)
+            trainingPla.train(50)
             val correctness = verifyingPla.verify(trainingPla.pocket)
             correctness.count(x => !x).toDouble / correctness.length.toDouble
         }).toList
